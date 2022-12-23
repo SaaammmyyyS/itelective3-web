@@ -26,4 +26,7 @@ Frameworks used:
 
 Organization worked with:
 
-[<img alt="alt_text" width="450" height="250" src="DOH-REGION 10.png" />](https://www.google.com/)
+<p align="center">
+  [<img alt="alt_text" width="450" height="250" src="DOH-REGION 10.png" />]([https://www.google.com/](https://ro10.doh.gov.ph/))
+</p>
+
