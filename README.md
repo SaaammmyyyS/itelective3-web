@@ -10,6 +10,8 @@ This is a skills inventory system powered by FERN and Cloud Firestore, which pro
 Frameworks used:
 
 <img src="Mern.jpeg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png"/>
+
+</br>
 * FERN (Framework for Evaluation of Reaction Networks)
 * Cloud Firestore
 * Express
