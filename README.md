@@ -10,6 +10,4 @@ This is a skills inventory system powered by FERN and Cloud Firestore, which pro
 Frameworks used:
 
 * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+  * Nested bullet
