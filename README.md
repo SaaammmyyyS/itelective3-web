@@ -23,10 +23,9 @@ Frameworks used:
 * Django React
 * Node
 
-
+</br>
 Organization worked with:
 
-</br>
 <p align="center">
   <img src="DOH-REGION 10.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="450" height="450" />
 </p>
