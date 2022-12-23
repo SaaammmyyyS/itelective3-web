@@ -9,5 +9,8 @@ This is a skills inventory system powered by FERN and Cloud Firestore, which pro
 
 Frameworks used:
 
-* Bullet list
-  * Nested bullet
+* FERN (Framework for Evaluation of Reaction Networks)
+* Cloud Firestore
+* Express
+* Django React
+* Node
