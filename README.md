@@ -1,4 +1,5 @@
 # itelective3-web
 
 
-![image](https://user-images.githubusercontent.com/62329819/209149369-d64e0a2b-b07b-4cc6-b34e-9aadd850a8f8.png)
+
+<img src="[https://camo.githubusercontent.com/...](https://github.com/SaaammmyyyS/itelective3-web/blob/main/DOH-REGION%2010.png)" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="200" />
