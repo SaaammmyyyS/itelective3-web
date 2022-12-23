@@ -5,7 +5,7 @@ This is a skills inventory system powered by FERN and Cloud Firestore, which pro
 <p align="center">
   <img src="skills inventory.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="450" height="450" />
 </p>
-
+</br>
 
 Frameworks used:
 
@@ -14,6 +14,9 @@ Frameworks used:
 </p>
 
 </br>
+
+
+
 * FERN (Framework for Evaluation of Reaction Networks)
 * Cloud Firestore
 * Express
