@@ -30,3 +30,7 @@ Organization worked with:
   <img src="DOH-REGION 10.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="450" height="450" />
 </p>
 
+
+Motivation?
+* This is a mere demonstration of writing a proper readme.md for a school assignment
+
