@@ -22,3 +22,8 @@ Frameworks used:
 * Express
 * Django React
 * Node
+
+
+Organization worked with:
+
+[<img alt="alt_text" width="40px" src="images/image.PNG" />](https://www.google.com/)
