@@ -26,4 +26,4 @@ Frameworks used:
 
 Organization worked with:
 
-[<img alt="alt_text" width="40px" src="images/image.PNG" />](https://www.google.com/)
+[<img alt="alt_text" width="450" height="250" src="DOH-REGION 10.png" />](https://www.google.com/)
